@@ -21,4 +21,4 @@ $ python3 app.py
 > Try the demo implemented, test your own images, and have fun!
 
 **Demo Video**
-> 
+> https://www.youtube.com/watch?v=UYiplvH7-qc
