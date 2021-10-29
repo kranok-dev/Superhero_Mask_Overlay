@@ -18,7 +18,7 @@
 $ python3 app.py
 ```
 
-> Try the demo implemented, test other videos, and have fun!
+> Try the demo implemented, test your own images, and have fun!
 
 **Demo Video**
 > 
